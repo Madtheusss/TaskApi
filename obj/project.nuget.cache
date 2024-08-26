@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71SaDpB8G6o=",
+  "dgSpecHash": "TmnCRhLDrLM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\BLITE\\Documents\\GitHub\\study\\TaskApi\\TaskApi.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\madtheusss\\learn\\TaskApi\\TaskApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BLITE\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\BLITE\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.7\\microsoft.aspnetcore.openapi.8.0.7.nupkg.sha512",

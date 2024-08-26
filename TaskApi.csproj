@@ -16,4 +16,20 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Database\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Database\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Database\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Database\**" />
+  </ItemGroup>
+
 </Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BLITE\\Documents\\GitHub\\study\\TaskApi\\TaskApi.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu\\home\\madtheusss\\learn\\TaskApi\\TaskApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BLITE\\Documents\\GitHub\\study\\TaskApi\\TaskApi.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\madtheusss\\learn\\TaskApi\\TaskApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BLITE\\Documents\\GitHub\\study\\TaskApi\\TaskApi.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\madtheusss\\learn\\TaskApi\\TaskApi.csproj",
         "projectName": "TaskApi",
-        "projectPath": "C:\\Users\\BLITE\\Documents\\GitHub\\study\\TaskApi\\TaskApi.csproj",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\madtheusss\\learn\\TaskApi\\TaskApi.csproj",
         "packagesPath": "C:\\Users\\BLITE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BLITE\\Documents\\GitHub\\study\\TaskApi\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\madtheusss\\learn\\TaskApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BLITE\\AppData\\Roaming\\NuGet\\NuGet.Config",
